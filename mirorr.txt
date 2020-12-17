@@ -1,0 +1,5 @@
+redis:4.0
+postgresql:10
+v2tec/watchtower:latest
+42wim/matterbridge:1.16.5
+nginx:1.13
