@@ -1,4 +1,4 @@
-buildkite-agent:3
+buildkite/agent:3
 redis:4.0
 postgres:10
 postgres:12
