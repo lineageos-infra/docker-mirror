@@ -1,7 +1,8 @@
 buildkite/agent:3
 redis:4.0
-postgres:10
 postgres:12
+postgres:13
+postgres:14
 v2tec/watchtower:latest
 42wim/matterbridge:1.16.5
 42wim/matterbridge:1.22.1
